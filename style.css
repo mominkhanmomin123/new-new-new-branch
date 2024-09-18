@@ -1,0 +1,159 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+body{
+
+}
+.nav-logo{
+    margin-right:200px ;
+}
+.welcome{
+    text-align: center;
+   
+}
+.container-banner-heading{
+    margin-bottom: 22%;
+    text-align: center;
+}
+.banner-heading{
+    text-shadow: 15px 0px 25px;
+    font-size: 4rem;
+  
+    
+}
+.brands{
+    display: flex;
+    justify-content: space-around;
+   
+margin-bottom: 8%;}
+
+.brandweoffer{
+    font-size: 3rem;
+    text-align: center;
+    margin-top: 60px;
+    text-shadow: 4px 4px 15px ;
+    margin-bottom: 30px;
+  color: white;
+
+}
+.card{
+    background-color: rgba(0, 0, 0, 0.884);
+    width: 18rem;
+    padding-left: 1%;
+    padding-right: 1%;
+  
+}
+.card:hover{
+    border: 1px solid white;
+    box-shadow: 1px 1px 17px 0.1px rgb(239, 239, 236);
+   
+    
+}
+/* .card-back{
+    background-color: black;
+} */
+.card-title{
+    text-align: center;
+}
+.card-body{
+  background-color: rgba(0, 0, 0, 0.884);
+    color: white;
+}
+.card img{
+    height: 100%;
+    width: 100%;
+    
+}
+.home-about{
+    height: 250px;
+    width: 70%;
+    margin: auto;
+    margin-top: 5%;
+    margin-bottom: 5%;
+   text-align: center;
+    align-items: center;
+    background-color: white;
+    padding: 3%;
+    border-radius: 7px;
+}
+.toyota-home-about{
+    height: 380px;
+    width: 75%;
+padding: 3%;
+text-align: center;
+border: 2px solid white;
+margin: auto;
+border-radius: 10px;
+}
+.bmw-home-about{
+    height: 400px;
+}
+.color-red{
+    color: red;
+    text-shadow: none;
+}
+.container-detail-about{
+    display: flex;
+    height: 480px;
+    border: 1px solid white;
+    margin: auto;
+    background-color: rgba(133, 121, 121, 0.26);
+    width: 87%;
+}
+.pic-div-about{
+    height: 100%;
+    width: 45%;
+    padding: 4%;
+    text-align: center;
+}
+.para-div-about{
+    padding: 5%;
+    width: 55%;
+    height: 100%;
+}
+.about-card-width{
+    width: 22%;
+    padding: 0%;
+    /* height: 450px; */
+    border: 0.001px solid white;
+}
+.about-card-width:hover{
+    box-shadow: none;
+}
+.about-card-width img{
+    height: 35%;
+}
+.about-card-body{
+    height:65%;
+    padding-bottom: 0;
+}
+.card-text{
+    font-size: 0.8rem;
+    text-align: center;
+}
+.btn-warning,.btn{
+    padding: 10%;
+}
+.icon-input input{
+    border: none;
+    padding-left: 0.5%;
+}
+
+.icon-input:active{
+    border: none;
+    box-shadow: none;
+    
+}
+.icon-input{
+    border: 1px solid black;
+    display: flex;
+    align-items: center;
+    padding-left: 0.6%;
+    border-radius: 4px;
+    background-color: white;
+}
+.align-button{
+    /* background-color: white; */
+}
